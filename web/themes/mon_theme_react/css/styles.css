@@ -1,0 +1,9 @@
+.block-system-branding-block {
+    max-width: 200px; /* ajustez cette valeur pour définir la largeur maximale du logo */
+    height: auto;
+  }
+  
+.image-style-wide {
+    max-width: 200px; /* ajustez cette valeur pour définir la largeur maximale du logo */
+    height: auto;
+  }

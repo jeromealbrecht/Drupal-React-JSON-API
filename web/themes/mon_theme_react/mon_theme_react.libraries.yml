@@ -1,0 +1,12 @@
+react-app:
+  version: 1.x
+  css:
+    theme:
+      css/styles.css: {}
+      build/static/css/mainion_10.0/main.22834ec7.chunk.css: {}
+  js:
+    build/static/js/main.22834ec7.chunk.js: {}
+  dependencies:
+    - core/drupal
+    - core/jquery
+    - core/drupalSettings

@@ -1,0 +1,7 @@
+name: Mon Thème React
+type: theme
+description: Un thème Drupal personnalisé pour intégrer une application React.
+core_version_requirement: ^10
+base theme: claro
+libraries:
+  - 'mon_theme_react/react-app'
